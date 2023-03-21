@@ -1,4 +1,4 @@
-# Own LnkedList
+# Own LinkedList
 
 Implement own LinkedList without copying and without using the list interface.
 
